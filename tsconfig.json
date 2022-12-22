@@ -1,0 +1,6 @@
+//para que no salga error en los parametros any. NO RECOMENDABLE
+{
+    "compilerOptions": {
+        "noImplicitAny": false
+    }
+}
